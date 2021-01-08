@@ -1,3 +1,7 @@
+div {
+    background-color: aliceblue;
+    padding: 2%;
+}
 .editable-text {
     cursor: pointer;
 }

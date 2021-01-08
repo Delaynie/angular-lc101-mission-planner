@@ -1,3 +1,6 @@
+* {
+    background-color: aliceblue;
+}
 .displayBox {
     height: 275px;
     width: auto;
